@@ -92,7 +92,7 @@ section {
     flex-wrap: wrap;
     margin: 0 auto;
     gap: 20px;
-    box-shadow: #000000;
+    box-shadow: #fafafa;
 }
 
 .galeria h2 {
@@ -139,10 +139,6 @@ section {
 
 .img-large img {
     width: 400px;
-}
-
-footer {
-    background-color: black;
 }
 
 footer {

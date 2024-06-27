@@ -64,4 +64,10 @@ footer {
 
 .card img {
     width: 100px;
+    filter: grayscale(100%);
+}
+
+.card span {
+    color: #ff0000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
